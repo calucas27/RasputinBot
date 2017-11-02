@@ -1,0 +1,7 @@
+Here are my commands! (prefix with #)
+[hello] --> Say hello to Rasputin!
+[ver] --> Display the version and author name!
+[wordsalad] --> Spits out 10 random words!
+[yt $query] --> Search YouTube for a video matching an entered keyword
+[frombinary $binary] --> Translated a given ascii message into binary.
+[tobinary $word] --> Translated a given binary message into ascii.
